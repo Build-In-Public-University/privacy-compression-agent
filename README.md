@@ -2,7 +2,7 @@
 
 A small, portable skill for turning private calls, interviews, and conversation transcripts into public-safe communication drafts without pretending that a draft is approved.
 
-The agent is deliberately a compressor, not a publisher. It removes unnecessary private detail, preserves project substance, records what was removed, and leaves approval with the human operator and relevant participants.
+The agent is deliberately a compressor, not a publisher. It removes unnecessary private detail, preserves project substance, records only a non-reconstructive privacy-review status, and leaves approval with the human operator and relevant participants.
 
 ## Files
 

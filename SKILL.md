@@ -48,7 +48,7 @@ If the source is ambiguous, preserve ambiguity or omit the detail. Do not guess 
 5. Remove unnecessary identifiers and third-party claims. Keep a claim only when it is necessary, source-grounded, and safe to expose.
 6. Preserve epistemic status: discussed, proposed, planned, tested, observed, and completed are not interchangeable.
 7. Write a short public note using the output template.
-8. Add a privacy-compression receipt listing what was retained, removed/generalized, and still requires review.
+8. Add a non-reconstructive privacy-review note stating that compression was performed, raw source is excluded, and what still requires review. Never enumerate deleted, omitted, or generalized material.
 9. Mark the result `DRAFT — NOT APPROVED FOR PUBLICATION`.
 10. Run the verification checklist before returning the artifact.
 
@@ -60,7 +60,7 @@ The draft must contain:
 - project direction;
 - decisions and experiments;
 - explicit next steps;
-- privacy-compression receipt;
+- non-reconstructive privacy-review note;
 - open review questions;
 - pending approval status.
 
@@ -104,6 +104,7 @@ Avoid:
 - [ ] Third-party claims are removed, generalized, or clearly labeled.
 - [ ] Tentative ideas remain tentative.
 - [ ] No invented dates, metrics, outcomes, or consent.
-- [ ] A compression receipt is present.
+- [ ] A non-reconstructive privacy-review note is present.
+- [ ] The draft does not enumerate deleted, omitted, or generalized material.
 - [ ] Status is `DRAFT — NOT APPROVED FOR PUBLICATION`.
 - [ ] No publishing or external side effect was performed.

@@ -16,11 +16,10 @@ Source: private archive reference only; do not include raw transcript text here.
 
 {{next_steps}}
 
-## Privacy compression receipt
+## Privacy review
 
-Retained: {{retained}}
-
-Removed or generalized: {{removed_or_generalized}}
+This draft was compressed for public use. Raw source material is not included
+here, and the draft should not be treated as a reconstruction of the call.
 
 Open review questions: {{review_questions}}
 

@@ -8,12 +8,13 @@ A valid public-note draft has these fields or sections:
 - `What we are building`: the project direction in calibrated language.
 - `Decisions and experiments`: concrete plans, hypotheses, or decisions discussed.
 - `Next steps`: only actions actually discussed or clearly labeled proposals.
-- `Privacy compression receipt`: what was retained, removed/generalized, and still requires review.
+- `Privacy review`: state that compression was performed, that raw material is excluded, and what still requires review. Do not enumerate deleted, omitted, or generalized material.
 - `Approval`: explicitly pending unless the operator has separately supplied approval.
 
 ## Required privacy pass
 
-Remove or generalize:
+Remove or generalize private material before drafting. Do not describe the
+removed material in the output:
 
 - financial hardship, health, mood, family, domestic, or relationship details;
 - private contacts, private audience members, account names, credentials, access history, and platform-session details;
