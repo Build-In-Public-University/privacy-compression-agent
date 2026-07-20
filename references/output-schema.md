@@ -1,0 +1,33 @@
+# Output schema
+
+A valid public-note draft has these fields or sections:
+
+- `Status`: must begin as `DRAFT — NOT APPROVED FOR PUBLICATION`.
+- `Date`: source date, if known.
+- `Source`: a private archive reference without exposing private contents.
+- `What we are building`: the project direction in calibrated language.
+- `Decisions and experiments`: concrete plans, hypotheses, or decisions discussed.
+- `Next steps`: only actions actually discussed or clearly labeled proposals.
+- `Privacy compression receipt`: what was retained, removed/generalized, and still requires review.
+- `Approval`: explicitly pending unless the operator has separately supplied approval.
+
+## Required privacy pass
+
+Remove or generalize:
+
+- financial hardship, health, mood, family, domestic, or relationship details;
+- private contacts, private audience members, account names, credentials, access history, and platform-session details;
+- unnecessary locations, dates, identifiers, or biographical details;
+- allegations or claims about third parties that are not necessary and verified;
+- incidental jokes or remarks that could embarrass or identify someone;
+- private operational details that create security or safety risk.
+
+## Truth pass
+
+Do not:
+
+- turn an idea into a commitment;
+- turn a hypothesis into a result;
+- attribute a view to a participant when the source is ambiguous;
+- invent dates, metrics, consent, or audience response;
+- imply that privacy compression equals participant approval.
